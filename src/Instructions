@@ -1,0 +1,8 @@
+Terminal commands
+
+To add a driver, Input: “A lastname firstname”
+To update driver’s lap time, Input: “U lastname hours minutes seconds”
+To see the database info, Input: “L”
+To write the database info to a text file, Input: “W textfilename”
+To download the text file info to the database, Input: “O textfilename”
+To exit the program, Input “Q”
